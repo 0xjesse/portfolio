@@ -21,7 +21,7 @@ projects = {
     },
     "More Projects Coming Soon": {
         "url": "https://www.linkedin.com/in/stably-jesse/",
-        "description": "More projects are in development and will be coming soon! Hit the link and navigate to the projects section in my Linkedin to see other projects. (Last updated 11/20)"
+        "description": "More projects are in development and will be coming soon! Some projects I am working on projects including chatbots, sentiment analysis tools, and more. Hit the link and navigate to the projects section in my Linkedin to see other projects. (Last updated 11/20)"
         # Add more details if needed
     },
     # Add more projects here
