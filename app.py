@@ -21,7 +21,7 @@ projects = {
     },
     "Sea Level Predictor": {
         "url": "https://sea-level-predictor.streamlit.app/",
-        "description": "Using data from the US Environmental Protection Agency from 1880-2014, I created an interactive chart where you can view the results."
+        "description": "For a project from Free Code Camp, I used data from the US Environmental Protection Agency from 1880-2014 to create an interactive chart where you can view the results."
     },
     "More Projects Coming Soon": {
         "url": "https://www.linkedin.com/in/stably-jesse/",
