@@ -18,6 +18,10 @@ projects = {
             "url": "https://sea-level-predictor.streamlit.app/",
             "description": "For a project from Free Code Camp, I used data from the US Environmental Protection Agency from 1880-2014 to create an interactive chart..."
         },
+        "Medical Data Visualizer": {
+            "url": "https://medical-data-visualizer.streamlit.app/",
+            "description": "I used data gathered from medical examinations to explore the relationship between cardiac disease, body measurements, blood markers, and lifestyle choices.",
+        }
         # Add more Data Visualization projects here
     },
     "Machine Learning": {
