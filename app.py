@@ -19,6 +19,10 @@ projects = {
         "description": "Performed Data Analysis across a Google Fiber dataset and created dashboards on Tableau to visualize the findings."
         # Add more details if needed
     },
+    "Sea Level Predictor": {
+        "url": "https://sea-level-predictor.streamlit.app/",
+        "description": "Using data from the US Environmental Protection Agency from 1880-2014, I created an interactive chart where you can view the results."
+    },
     "More Projects Coming Soon": {
         "url": "https://www.linkedin.com/in/stably-jesse/",
         "description": "More projects are in development and will be coming soon! Some projects I am working on projects including chatbots, sentiment analysis tools, and more. Hit the link and navigate to the projects section in my Linkedin to see other projects. (Last updated 11/20)"
