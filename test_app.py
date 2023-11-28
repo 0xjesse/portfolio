@@ -27,12 +27,6 @@ projects = {
         }
         # Add more Machine Learning projects here
     },
-    "Page Currently Under Construction (11/28/2023)": {
-        "Come back soon to see all projects": {
-            "url": "https://www.linkedin.com/in/stably-jesse/",
-            "description": "To see more of my projects, know more about me, or simply want to connect, hit the link to view my LinkedIn"
-        }
-    }
     # Add more categories if needed
 }
 
@@ -45,4 +39,3 @@ for category_name, category_projects in projects.items():
         with st.expander(project_name):
             st.write(project_info["description"])
             st.markdown(f"[Visit the project here]({project_info['url']})")
-
