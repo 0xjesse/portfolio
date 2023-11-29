@@ -21,6 +21,10 @@ projects = {
         "Medical Data Visualizer": {
             "url": "https://medical-data-visualizer.streamlit.app/",
             "description": "I used data gathered from medical examinations to explore the relationship between cardiac disease, body measurements, blood markers, and lifestyle choices.",
+        },
+        "Page View Time Series Visualizer": {
+            "url": "https://page-series-visualizer.streamlit.app/",
+            "description": "Using page-views data gathered from 2016-2019, I created several charts to identify patterns in visits and growth"
         }
         # Add more Data Visualization projects here
     },
