@@ -5,7 +5,7 @@ st.set_page_config(page_title="My Portfolio", layout="wide")
 
 # Add a title and a brief introduction
 st.title("My Portfolio")
-st.write("Welcome to my portfolio! Here are some of my projects that highlight different skills of mine in Data Analysis and Machine Learning:")
+st.write("Welcome to my portfolio! Here are some of my projects that highlight different skills in Data Analysis and Machine Learning:")
 
 # Categorized project details
 projects = {
@@ -16,7 +16,7 @@ projects = {
         },
         "Sea Level Predictor": {
             "url": "https://sea-level-predictor.streamlit.app/",
-            "description": "For a project from Free Code Camp, I used data from the US Environmental Protection Agency from 1880-2014 to create an interactive chart..."
+            "description": "For a project from Free Code Camp, I used data from the US Environmental Protection Agency from 1880-2014 to create an interactive chart."
         },
         "Medical Data Visualizer": {
             "url": "https://medical-data-visualizer.streamlit.app/",
@@ -24,7 +24,7 @@ projects = {
         },
         "Page View Time Series Visualizer": {
             "url": "https://page-series-visualizer.streamlit.app/",
-            "description": "Using page-views data gathered from 2016-2019, I created several charts to identify patterns in visits and growth"
+            "description": "Using page-views data gathered from 2016-2019, I created several charts to identify patterns in visits and growth."
         }
         # Add more Data Visualization projects here
     },
