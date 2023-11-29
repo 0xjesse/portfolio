@@ -35,8 +35,8 @@ projects = {
         }
         # Add more Machine Learning projects here
     },
-    "Page Currently Under Construction (11/28/2023)": {
-        "Come back soon to see all projects": {
+    "Page Actively Updated (11/29/2023)": {
+        "Come back to see more projects": {
             "url": "https://www.linkedin.com/in/stably-jesse/",
             "description": "To see more of my projects, know more about me, or simply want to connect, hit the link to view my LinkedIn"
         }
