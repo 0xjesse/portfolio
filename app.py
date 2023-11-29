@@ -27,7 +27,7 @@ projects = {
     "Machine Learning": {
         "Local Gems": {
             "url": "https://localgems.streamlit.app",
-            "description": "Local Gems is a web application that provides recommendations for places based on user queries..."
+            "description": "Local Gems is a web application that provides recommendations for places based on user queries."
         }
         # Add more Machine Learning projects here
     },
