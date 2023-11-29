@@ -5,7 +5,7 @@ st.set_page_config(page_title="My Portfolio", layout="wide")
 
 # Add a title and a brief introduction
 st.title("My Portfolio")
-st.write("Welcome to my portfolio! Here are some of my projects that highlight different types of charts and visualizations:")
+st.write("Welcome to my portfolio! Here are some of my projects that highlight different skills of mine in Data Analysis and Machine Learning:")
 
 # Categorized project details
 projects = {
